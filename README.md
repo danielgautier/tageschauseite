@@ -1,6 +1,3 @@
 Salut ici cest un READMI Test
 
-je vais faire un commit directement de git hub 
-
-cest cool
- testons git pull origin
+juste Pour ajouter une nouvelle Ligne Afin de tester git push  chez git hub
